@@ -26,6 +26,22 @@ section-2{
     left: 824px;
     border: 5px dashed black;
 }
+section-3{
+    display: block;
+    position: relative;
+    text-align: center;
+    top: 300px;
+    width: 300px;
+    left: 750px;
+    border: 10px solid black;
+    background-color: green;
+}
 footer {
+    position: relative;
+    text-align: center;
     border: 5px solid brown;
+    width: 200px;
+    height: 100px;
+    top: 400px;
+    left: 800px;
 }
