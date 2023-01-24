@@ -23,5 +23,6 @@ p {
 }
 section-2{
     position:absolute;
-    left: 830px;
+    left: 824px;
+    border: 5px dashed black;
 }
