@@ -2,9 +2,26 @@
     background-color:tan;
 
 }
+section{
+    display:block;
+    position:relative;
+    left: 800px;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    border: 10px solid black;
+    background-color: green;
+}
+p {
+    text-align: center;
+}
 .header {
-    Position: relative;
-    Top: 40px;
-    left: 500px;
+    text-align: center;
     color: Green;
+}
+section-2{
+    position:absolute;
+    left: 830px;
 }
